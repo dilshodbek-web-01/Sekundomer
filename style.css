@@ -1,0 +1,22 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1250px;
+  margin: 0 auto;
+}
+
+.sekundomer {
+  margin: 50px 200px;
+}
+
+.up-picture {
+  width: 200px;
+}
+
+.up-title {
+  font-size: 100px;
+}
